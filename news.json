@@ -1,0 +1,17 @@
+{
+  "news": [
+    {
+      "id": "welcome",
+      "date": "",
+      "kind": "info",
+      "title_ja": "Echoes of LUX へようこそ！",
+      "title_en": "Welcome to Echoes of LUX!",
+      "body_ja": "遊んでくれてありがとう！\nここでは、アップデートの内容や、これから来る新しい機能・キャラの予告をお知らせします。\n新しいお知らせがあると、ホームの右上のメガホンのボタンに赤い「!」がつきます。",
+      "body_en": "Thanks for playing!\nHere you'll find what's new in each update, plus previews of upcoming features and heroes.\nWhen there's new news, a red \"!\" appears on the megaphone button at the top right of Home.",
+      "until": "",
+      "since": "",
+      "before": "",
+      "store": false
+    }
+  ]
+}
