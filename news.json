@@ -1,6 +1,19 @@
 {
   "news": [
     {
+      "id": "preview-1.1",
+      "date": "2026-11-08",
+      "kind": "preview",
+      "title_ja": "次のアップデート（1.1）の予告",
+      "title_en": "Coming in the next update (1.1)",
+      "body_ja": "次のアップデートでは、こんなことが変わります。\n\n★入場演出：バトルの始まりに、キャラの登場シーンが入ります。\n★もっと軽く・なめらかに：動きが重くなりにくくなります。\n★リラの弓：リラが、弓をより自然な形で持つようになります。\n\nお楽しみに！",
+      "body_en": "Here's what's changing in the next update.\n\n★Entrance scene: each battle now opens with a scene of the heroes making their entrance.\n★Lighter and smoother: the game will slow down less often.\n★Lyra's bow: Lyra will hold her bow in a more natural way.\n\nStay tuned!",
+      "until": "",
+      "since": "",
+      "before": "1.1",
+      "store": false
+    },
+    {
       "id": "welcome",
       "date": "",
       "kind": "info",
