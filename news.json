@@ -1,17 +1,30 @@
 {
   "news": [
     {
-      "id": "preview-1.1",
-      "date": "2026-11-08",
-      "kind": "preview",
-      "title_ja": "次のアップデート（1.1）の予告",
-      "title_en": "Coming in the next update (1.1)",
-      "body_ja": "次のアップデートでは、こんなことが変わります。\n\n★入場演出：バトルの始まりに、キャラの登場シーンが入ります。\n★もっと軽く・なめらかに：動きが重くなりにくくなります。\n★リラの弓：リラが、弓をより自然な形で持つようになります。\n\nお楽しみに！",
-      "body_en": "Here's what's changing in the next update.\n\n★Entrance scene: each battle now opens with a scene of the heroes making their entrance.\n★Lighter and smoother: the game will slow down less often.\n★Lyra's bow: Lyra will hold her bow in a more natural way.\n\nStay tuned!",
+      "id": "update-1.2",
+      "date": "2026-11-13",
+      "kind": "update",
+      "title_ja": "1.2 アップデートのお知らせ",
+      "title_en": "Version 1.2 Update",
+      "body_ja": "遊んでくれてありがとう！1.2 では、こんなことが変わりました。\n\n■ 技\n・どのキャラも「基本」と「異式」の2つの技を持つようになりました。\n・Lv7 から、ムーンストーンで解放できます。\n・ジンの異式「轟雷弾」：雷の勢いで、敵を後ろへはじき飛ばします。\n\n■ ムーンストーン\n・グローリーロードと輝く結晶で手に入ります。\n\n■ 報酬の受け取り\n・グローリーロードの報酬は、自分でタップして受け取る形になりました。\n\n■ 試合のボタン\n・ボタンごとにマークと色をつけました。\n・カスタマイズで、大きさ・濃さ・彩度を変えられます。\n\n■ そのほか\n・ホームのキャラをタップすると、キャラ一覧が開きます。\n・結晶を素早くタップしても、スムーズに開くようにしました。\n・称号・キャラのストーリー・伝説の書・エイムアシストをなくして、画面をすっきりさせました。\n・プロフィールに、3vs3 とバトロワの試合数が出るようにしました。\n・育成のバランスを調整しました。\n・設定に「ゲーム改善のための統計」を追加しました。いつでもオフにできます。\n\nこれからも、よろしくお願いします！",
+      "body_en": "Thanks for playing! Here's what's new in 1.2.\n\n■ Skills\n- Each hero now has two skills, Basic and Alter.\n- Unlock them with Moonstones from Lv7.\n- Zinn's Alter \"Thunderclap\": his shots knock enemies back with the force of thunder.\n\n■ Moonstones\n- Earn them on the Glory Roads and from Shining Crystals.\n\n■ Claim your rewards\n- Tap to claim Glory Road rewards when they're ready.\n\n■ Battle buttons\n- Each button now has its own icon and color.\n- Change size, opacity and saturation in Customize.\n\n■ Other changes\n- Tap your hero on the home screen to open the hero list.\n- Crystals now open smoothly even when you tap quickly.\n- Titles, hero stories, the Book of Legends and aim assist have been removed for simpler screens.\n- Your profile now shows matches played in 3v3 and battle royale.\n- Leveling balance has been adjusted.\n- Added \"Stats to Improve the Game\" in Settings. You can turn it off at any time.\n\nThanks for playing Echoes of LUX!",
+      "until": "",
+      "since": "1.2",
+      "before": "",
+      "store": false
+    },
+    {
+      "id": "available-1.2",
+      "date": "2026-11-13",
+      "kind": "update",
+      "title_ja": "新しいバージョン 1.2 が出ました",
+      "title_en": "Version 1.2 is out",
+      "body_ja": "新しいバージョン 1.2 が出ました！\n\n技の「異式」、ムーンストーン、新しい試合のボタンなどが入っています。\n下のボタンから App Store を開いて、アップデートしてね。",
+      "body_en": "Version 1.2 is out!\n\nIt brings Alter skills, Moonstones, new battle buttons and more.\nTap the button below to update on the App Store.",
       "until": "",
       "since": "",
-      "before": "1.1",
-      "store": false
+      "before": "1.2",
+      "store": true
     },
     {
       "id": "welcome",
